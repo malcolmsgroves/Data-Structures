@@ -8,13 +8,13 @@ Implements insertion sort and selection sort on an integer array. Learning java.
 Learning OOP. 2D and 3D shape objects implemented with inheritance and an interface.
 
 ## Lab 3: Linked Lists
-A simple alphabetical contact directory implemented with a *linked list*.
+A simple alphabetical contact directory implemented with a linked list.
 
 ## Lab 5: Boggle
-An interactive command line Boggle game, implemented *recursively*.
+An interactive command line Boggle game, implemented recursively.
 
 ## Lab 6: Sudoku
-A brute-force solver for Sudoku, implemented with a *stack*.
+A brute-force solver for Sudoku, implemented with a stack.
 
 ## Lab 7: Hash Table
-A *hash table* data structure with open hashing. 'Gameboard' values are stored in the hash table.
+A hash table data structure with open hashing. 'Gameboard' values are stored in the hash table.
