@@ -11,7 +11,7 @@ Learning OOP. 2D and 3D shape objects implemented with inheritance and an interf
 A simple alphabetical contact directory implemented with a linked list.
 
 ## Lab 4: Word Search
-The computer completes a word search using recursion.
+The computer completes a word search using binary search.
 
 ## Lab 5: Boggle
 An interactive command line Boggle game, implemented recursively.
